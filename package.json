@@ -12,6 +12,7 @@
     "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.23.0",
     "chai": "^4.3.8",
+    "eslint": "^10.7.0",
     "jsdom": "^22.1.0",
     "mocha": "^10.2.0",
     "mocha-multi": "^1.1.3"
