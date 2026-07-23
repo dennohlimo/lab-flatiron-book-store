@@ -1,5 +1,3 @@
-const { createElement } = require("react");
-
 const bookStore = {
   name: "Flatbooks Technical Books",
   books: [
